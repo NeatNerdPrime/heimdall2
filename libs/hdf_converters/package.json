@@ -19,7 +19,7 @@
     "test": "jest --silent"
   },
   "dependencies": {
-    "csv-parse": "^4.16.0",
+    "csv-parse": "^5.0.1",
     "fast-xml-parser": "^3.19.0",
     "htmlparser2": "^7.0.0",
     "inspecjs": "^2.4.6",
