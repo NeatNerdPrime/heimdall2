@@ -13984,9 +13984,9 @@ lru-cache@^6.0.0:
     yallist "^4.0.0"
 
 lru-cache@^7.0.1:
-  version "7.5.1"
-  resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-7.5.1.tgz#660a134c2c3c015aa453b03df55d2a9f0c216a0f"
-  integrity sha512-q1TS8IqKvcg3aScamKCHpepSrHF537Ww7nHahBOxhDu9D2YoBXAsj/7uFdZFj1xJr9LmyeJ62AdyofCHafUbIA==
+  version "7.7.0"
+  resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-7.7.0.tgz#8ce6eeb1b553660a99edb3ff832cecceaeeece17"
+  integrity sha512-3W9Irr9YR2ZHJbfRr/hj8VtzqH7DugwWyHONyDByP6PLS/YJV7GTX5dDYS+qFe/LkVfnCjtk6vkVsxxKGol6jQ==
 
 lru-queue@^0.1.0:
   version "0.1.0"
