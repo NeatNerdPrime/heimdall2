@@ -4091,9 +4091,9 @@
   integrity sha512-5tXH6Bx/kNGd3MgffdmP4dy2Z+G4eaXw0SE81Tq3BNadtnMR5/ySMzX4SLEzHJzSmPNn4HIdpQsBvXMUykr58w==
 
 "@types/lru-cache@^7.4.0":
-  version "7.5.0"
-  resolved "https://registry.yarnpkg.com/@types/lru-cache/-/lru-cache-7.5.0.tgz#4b7dfa2583d82c9377feddb04c386bed88e6b274"
-  integrity sha512-uZGjbDsQpBxLR0znOeyAneSfMfEDDhi6FFKBY0sDI3EQMwcWCZfUZsOg3WhMTF0arvkvFquLMdrxAhCNgqpoww==
+  version "7.6.0"
+  resolved "https://registry.yarnpkg.com/@types/lru-cache/-/lru-cache-7.6.0.tgz#196bca20d3639712026ced9eee420eb045311462"
+  integrity sha512-9q2Ft/nq7a8XjNxFLz/+LxVdMd1P6dcf2ulLY1+zbURtdFG1nuVpQtEHkvd6rtpLFowYKwf5PXX3V52LYzHuEw==
 
 "@types/luxon@^2.0.0":
   version "2.3.1"
