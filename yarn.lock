@@ -25,18 +25,6 @@
   dependencies:
     "@jridgewell/trace-mapping" "^0.3.0"
 
-"@angular-devkit/core@13.3.1":
-  version "13.3.1"
-  resolved "https://registry.yarnpkg.com/@angular-devkit/core/-/core-13.3.1.tgz#e79237d9cffedcc32c59702131e700eb52de76e2"
-  integrity sha512-eXAcQaP1mn6rnQb+5bv5NsamY6b34UYM7G+S154Hnma6CTTSGBtcmoNAJs8cekuFqWlw7YgpB/e15jR5OLPkDA==
-  dependencies:
-    ajv "8.9.0"
-    ajv-formats "2.1.1"
-    fast-json-stable-stringify "2.1.0"
-    magic-string "0.25.7"
-    rxjs "6.6.7"
-    source-map "0.7.3"
-
 "@angular-devkit/core@13.3.2":
   version "13.3.2"
   resolved "https://registry.yarnpkg.com/@angular-devkit/core/-/core-13.3.2.tgz#b2e7a9a6457d587a59d5f6df799bebb6930a5ddc"
@@ -60,17 +48,6 @@
     inquirer "8.2.0"
     minimist "1.2.6"
     symbol-observable "4.0.0"
-
-"@angular-devkit/schematics@13.3.1":
-  version "13.3.1"
-  resolved "https://registry.yarnpkg.com/@angular-devkit/schematics/-/schematics-13.3.1.tgz#808af593cd59c0de76361b72346a506cd1624a5a"
-  integrity sha512-DxXMjlq/sALcHuONZRMTBX5k30XPfN4b6Ue4k7Xl8JKZqyHhEzfXaZzgD9u2cwb7wybKEeF/BZ5eJd8JG525og==
-  dependencies:
-    "@angular-devkit/core" "13.3.1"
-    jsonc-parser "3.0.0"
-    magic-string "0.25.7"
-    ora "5.4.1"
-    rxjs "6.6.7"
 
 "@angular-devkit/schematics@13.3.2":
   version "13.3.2"
@@ -6035,9 +6012,9 @@ autoprefixer@^9.8.6:
     postcss-value-parser "^4.1.0"
 
 aws-sdk@^2.573.0:
-  version "2.1110.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.1110.0.tgz#bb4fe12a7768957b8df275bcd5e4188f5b5a9393"
-  integrity sha512-qxHqzE2ikGNRzhajcmWIBuptML3LBwz9TMnS0jLQjXOP54fZYW6EEKy2Dy7MKjHKeo8QQy/EWtDdWfH9Fu5UIA==
+  version "2.1111.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.1111.0.tgz#02b1e5c530ef8140235ee7c48c710bb2dbd7dc84"
+  integrity sha512-WRyNcCckzmu1djTAWfR2r+BuI/PbuLrhG3oa+oH39v4NZ4EecYWFL1CoCPlC2kRUML4maSba5T4zlxjcNl7ELQ==
   dependencies:
     buffer "4.9.2"
     events "1.1.1"
