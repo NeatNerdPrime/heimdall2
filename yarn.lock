@@ -5032,14 +5032,14 @@
     webpack "^5.54.0"
 
 "@vue/cli-plugin-unit-jest@~5.0.3":
-  version "5.0.4"
-  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-unit-jest/-/cli-plugin-unit-jest-5.0.4.tgz#32c0ec4b151e025f33edc237ceb0cdd70ae44270"
-  integrity sha512-M4Vuh9j/PUzuuSl5RfVElAGzVlZ8oaOZr6AlWV5IdQJRdFMN5WzbqYrjzu2cpNwmjfvp0F7MXnJxyFq1SY8lmQ==
+  version "5.0.7"
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-unit-jest/-/cli-plugin-unit-jest-5.0.7.tgz#0ae497ee2eb3f903772a56dfd70ac6c50794c478"
+  integrity sha512-ptaUJajzjwAbHWG3S0ptebkeshALLxLxDl2yJUjyk9G1gVwCqnna+uZoWXyBjg3b/OTK2m6VLKq0Q762vUMelA==
   dependencies:
     "@babel/core" "^7.12.16"
     "@babel/plugin-transform-modules-commonjs" "^7.15.0"
     "@types/jest" "^27.0.1"
-    "@vue/cli-shared-utils" "^5.0.4"
+    "@vue/cli-shared-utils" "^5.0.7"
     babel-jest "^27.1.0"
     deepmerge "^4.2.2"
     jest "^27.1.0"
@@ -5133,7 +5133,7 @@
     semver "^6.1.0"
     strip-ansi "^6.0.0"
 
-"@vue/cli-shared-utils@^5.0.4", "@vue/cli-shared-utils@^5.0.7":
+"@vue/cli-shared-utils@^5.0.7":
   version "5.0.7"
   resolved "https://registry.yarnpkg.com/@vue/cli-shared-utils/-/cli-shared-utils-5.0.7.tgz#c6774573ea2e8106e11d3d6df342c2bd2554330a"
   integrity sha512-SzpqSExsp31gg7w+UAsqdrFyZGxKNTIE8MVwcfkevEx4BgugpLcmUxgcelgDktMs7GGykxluPIm0ZHDk3ytXeg==
