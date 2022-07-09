@@ -101,7 +101,7 @@
     "winston": "^3.3.3"
   },
   "devDependencies": {
-    "@nestjs/testing": "^8.0.2",
+    "@nestjs/testing": "^9.0.1",
     "@types/expect-puppeteer": "^5.0.0",
     "@types/jest": "^28.1.0",
     "@types/jest-environment-puppeteer": "^5.0.0",
