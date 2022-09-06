@@ -101,7 +101,7 @@
     "sass": "~1.54.0",
     "sass-loader": "^13.0.0",
     "search-query-parser": "^1.5.5",
-    "uuid": "^8.3.0",
+    "uuid": "^9.0.0",
     "vue": "~3.2.30",
     "vue-apexcharts": "^1.5.1",
     "vue-class-component": "^7.0.2",
