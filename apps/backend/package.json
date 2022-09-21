@@ -109,7 +109,7 @@
     "@types/puppeteer": "^5.4.0",
     "jest": "^28.0.2",
     "mock-fs": "^5.0.0",
-    "puppeteer": "^17.0.0",
+    "puppeteer": "^18.0.3",
     "supertest": "^6.0.0",
     "ts-jest": "^28.0.1"
   }
