@@ -135,7 +135,7 @@
     "chai-as-promised": "^7.1.1",
     "jest": "^28.0.2",
     "jest-useragent-mock": "^0.1.1",
-    "sinon": "^14.0.0",
+    "sinon": "^15.0.0",
     "ts-jest": "^28.0.1",
     "vue-jest": "^3.0.7"
   },
