@@ -43,7 +43,7 @@
   "dependencies": {
     "@heimdall/interfaces": "^2.4.6",
     "@mdi/font": "^7.0.96",
-    "@mdi/js": "^6.1.95",
+    "@mdi/js": "^7.1.96",
     "@types/bootstrap": "^5.0.15",
     "@types/chroma-js": "^2.1.0",
     "@types/concat-stream": "^2.0.0",
