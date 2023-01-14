@@ -16380,9 +16380,9 @@ quick-lru@^4.0.1:
   integrity sha512-ARhCpm70fzdcvNQfPoy49IaanKkTlRWF2JMzqhcJbhSFRZv7nPTvZJdcY7301IPmvW+/p0RgIWnQDLJxifsQ7g==
 
 quicktype@^18.0.1:
-  version "18.0.2"
-  resolved "https://registry.yarnpkg.com/quicktype/-/quicktype-18.0.2.tgz#d20154f617c1fc58189fc74201cf6bbbc39377ce"
-  integrity sha512-Y6dPiVNtrbBYVuVM15c8xFkYq8vskGxOn7YtfcRFeOMn3APB3zuXQ6Ci9OWg0/8BlNSTDxFxuBfrSKCKCW1eHA==
+  version "18.0.4"
+  resolved "https://registry.yarnpkg.com/quicktype/-/quicktype-18.0.4.tgz#571315c22fa068549e8800410c360942541ea1f7"
+  integrity sha512-Civuawggw6dYrRGRxQkVJuGvFCoFzLfAJtkDssMvVeZNTmXYswz03nfSZapaOxBcQCeulL2kgzzs+fEHDLaL0Q==
   dependencies:
     "@glideapps/ts-necessities" "2.1.2"
     "@mark.probst/typescript-json-schema" "0.55.0"
