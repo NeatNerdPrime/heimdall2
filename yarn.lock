@@ -5905,9 +5905,9 @@ anymatch@^3.0.3, anymatch@~3.1.2:
     picomatch "^2.0.4"
 
 apexcharts@^3.10.1:
-  version "3.36.3"
-  resolved "https://registry.yarnpkg.com/apexcharts/-/apexcharts-3.36.3.tgz#debd58ded07163d51e00aeb15827d594e0cc8129"
-  integrity sha512-8/FXEs0ohXMff07Gv28XjhPwEJphIUdq2/wii/pcvi54Tw6z1mjrV8ydN8rlWi/ve8BAPBefJkLmRWv7UOBsLw==
+  version "3.37.0"
+  resolved "https://registry.yarnpkg.com/apexcharts/-/apexcharts-3.37.0.tgz#856ef7ee5549bc9debed1f1052c5ce5394ab9ca5"
+  integrity sha512-0mg1gDKUo3JG00Q//LK0jEXBS6OLjpuglqZ8ec9cqfA5oP8owopD9n5EhfARbWROb5o8GSPzFuohTJiCm2ecWw==
   dependencies:
     svg.draggable.js "^2.2.2"
     svg.easing.js "^2.0.0"
@@ -18690,11 +18690,6 @@ tsconfig@^7.0.0:
     "@types/strip-json-comments" "0.0.30"
     strip-bom "^3.0.0"
     strip-json-comments "^2.0.0"
-
-tslib@2.4.1:
-  version "2.4.1"
-  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.4.1.tgz#0d0bfbaac2880b91e22df0768e55be9753a5b17e"
-  integrity sha512-tGyy4dAjRIEwI7BzsB0lynWgOpfqjUdq91XXAlIWD2OwKBH7oCl/GZG/HT4BOHrTlPMOASlMQ7veyTqpmRcrNA==
 
 tslib@2.5.0, tslib@^2.0.1, tslib@^2.0.3, tslib@^2.1.0, tslib@^2.3.0, tslib@^2.3.1, tslib@^2.4.0:
   version "2.5.0"
