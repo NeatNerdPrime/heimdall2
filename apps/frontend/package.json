@@ -95,7 +95,7 @@
     "luxon": "^3.0.1",
     "mustache": "^4.2.0",
     "prismjs": "^1.21.0",
-    "rimraf": "^4.0.4",
+    "rimraf": "^5.0.0",
     "roboto-fontface": "*",
     "sanitize-html": "^2.3.3",
     "sass": "~1.61.0",
