@@ -10725,9 +10725,9 @@ he@^1.2.0:
   integrity sha512-F/1DnUGPopORZi0ni+CvrCgHQ5FyEAHRLSApuYWMmrbSwoN2Mn/7k+Gl38gJnR7yyDZk6WLXwiGod1JOWNDKGw==
 
 helmet@^6.0.0:
-  version "6.0.1"
-  resolved "https://registry.yarnpkg.com/helmet/-/helmet-6.0.1.tgz#52ec353638b2e87f14fe079d142b368ac11e79a4"
-  integrity sha512-8wo+VdQhTMVBMCITYZaGTbE4lvlthelPYSvoyNvk4RECTmrVjMerp9RfUOQXZWLvCcAn1pKj7ZRxK4lI9Alrcw==
+  version "6.1.4"
+  resolved "https://registry.yarnpkg.com/helmet/-/helmet-6.1.4.tgz#a57dc478532e811f7dfd64b69f9023dad1c6e28e"
+  integrity sha512-nCJIriKjOYcRmHRpK+Z5DayEh6xwOKO0U0qzWL3MEIwsB8OSxxBu/mUE9U5PRH8ln/+WySlK2eYe5FOlo0v9aA==
 
 hexoid@^1.0.0:
   version "1.0.0"
