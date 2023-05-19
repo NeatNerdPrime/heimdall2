@@ -19540,9 +19540,9 @@ vue-property-decorator@^9.0.0:
   integrity sha512-xYA8MkZynPBGd/w5QFJ2d/NM0z/YeegMqYTphy7NJQXbZcuU6FC6AOdUAcy4SXP+YnkerC6AfH+ldg7PDk9ESQ==
 
 vue-router@^4.0.12:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-4.2.0.tgz#558f31978a21ce3accf5122ffdf2cec34a5d2517"
-  integrity sha512-c+usESa6ZoWsm4PPdzRSyenp5A4dsUtnDJnrI03fY1IpIihA9TK3x5ffgkFDpjhLJZewsXoKURapNLFdZjuqTg==
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-4.2.1.tgz#f8ab85c89e74682cad71519480fdf2b855e8c9e0"
+  integrity sha512-nW28EeifEp8Abc5AfmAShy5ZKGsGzjcnZ3L1yc2DYUo+MqbBClrRP9yda3dIekM4I50/KnEwo1wkBLf7kHH5Cw==
   dependencies:
     "@vue/devtools-api" "^6.5.0"
 
