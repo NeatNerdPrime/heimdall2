@@ -91,7 +91,7 @@
     "inspecjs": "^2.4.6",
     "jquery": "^3.6.0",
     "lodash": "4.17.21",
-    "lru-cache": "^9.0.1",
+    "lru-cache": "^10.0.0",
     "luxon": "^3.0.1",
     "mustache": "^4.2.0",
     "prismjs": "^1.21.0",
