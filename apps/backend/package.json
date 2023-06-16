@@ -45,7 +45,7 @@
   "dependencies": {
     "@casl/ability": "^6.0.0",
     "@heimdall/interfaces": "^2.4.6",
-    "@nestjs/cli": "^9.0.0",
+    "@nestjs/cli": "^10.0.1",
     "@nestjs/common": "^9.0.2",
     "@nestjs/core": "^9.0.1",
     "@nestjs/jwt": "^10.0.1",
