@@ -52,7 +52,7 @@
     "@nestjs/passport": "^10.0.0",
     "@nestjs/platform-express": "^10.0.2",
     "@nestjs/schematics": "^10.0.1",
-    "@nestjs/sequelize": "^9.0.0",
+    "@nestjs/sequelize": "^10.0.0",
     "@nestjs/serve-static": "^4.0.0",
     "@types/bcryptjs": "^2.4.2",
     "@types/connect-pg-simple": "^7.0.0",
