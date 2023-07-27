@@ -5804,9 +5804,9 @@ available-typed-arrays@^1.0.5:
   integrity sha512-DMD0KiN46eipeziST1LPP/STfDU0sufISXmjSgvVsoU2tqxctQeASejWcfNtxYKqETM1UxQ8sp2OrSBWpHY6sw==
 
 aws-sdk@^2.573.0:
-  version "2.1422.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.1422.0.tgz#114a06cca27a6163ae8b1b7f3bed11fbf5fabe1b"
-  integrity sha512-dBHCT42s2NOrZVSeKQ+I0kPsAPN0QhbKv05gQFQL79yGIOqLZawWos8vtKSYdp9wEOpiIRttB7m6usYJObKpWA==
+  version "2.1423.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.1423.0.tgz#e6491f7dbb7dcb5c1ec92a4c536165b136c432cd"
+  integrity sha512-6Z6CMME7nVwHNxchxGpP3ZiUkuxU5hkqEQplV2sgfgOk6XKazu7zqKQ4Iy6+OaXPNWHZnIsvfxFvBNOWTy/cPA==
   dependencies:
     buffer "4.9.2"
     events "1.1.1"
@@ -18991,11 +18991,6 @@ tslib@2.5.3:
   version "2.5.3"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.5.3.tgz#24944ba2d990940e6e982c4bea147aba80209913"
   integrity sha512-mSxlJJwl3BMEQCUNnxXBU9jP4JBktcEGhURcPR6VQVlnP0FdDEsIaz0C35dXNGLyRfrATNofF0F5p2KPxQgB+w==
-
-tslib@2.6.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.6.0.tgz#b295854684dbda164e181d259a22cd779dcd7bc3"
-  integrity sha512-7At1WUettjcSRHXCyYtTselblcHl9PJFFVKiCAy/bY97+BPZXSQ2wbq0P9s8tK2G7dFQfNnlJnPAiArVBVBsfA==
 
 tslib@2.6.1, tslib@^2.0.1, tslib@^2.0.3, tslib@^2.1.0, tslib@^2.3.0, tslib@^2.3.1, tslib@^2.4.0, tslib@^2.5.0, tslib@^2.6.0:
   version "2.6.1"
