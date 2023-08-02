@@ -4172,15 +4172,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-10.17.60.tgz#35f3d6213daed95da7f0f73e75bcc6980e90597b"
   integrity sha512-F0KIgDJfy2nA3zMLmWGKxcH2ZVEtCZXHHdOQs2gSaQ27+lNeEfGxzkIw90aXswATX7AZ33tahPbzy6KAfUreVw==
 
-"@types/node@^14.14.31":
-  version "14.17.5"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.17.5.tgz#b59daf6a7ffa461b5648456ca59050ba8e40ed54"
-  integrity sha512-bjqH2cX/O33jXT/UmReo2pM7DIJREPMnarixbQ57DOOzzFaI6D2+IcwaJQaJpv0M1E9TIhPCYVxrkcityLjlqA==
-
-"@types/node@^16.9.2":
-  version "16.18.11"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.18.11.tgz#cbb15c12ca7c16c85a72b6bdc4d4b01151bb3cae"
-  integrity sha512-3oJbGBUWuS6ahSnEq1eN2XrCyf4YsWI8OyCvo7c64zQJNplk3mO84t53o8lfTk+2ji59g5ycfc6qQ3fdHliHuA==
+"@types/node@^16.18.39", "@types/node@^16.9.2":
+  version "16.18.39"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.18.39.tgz#aa39a1a87a40ef6098ee69689a1acb0c1b034832"
+  integrity sha512-8q9ZexmdYYyc5/cfujaXb4YOucpQxAV4RMG0himLyDUOEr8Mr79VrqsFI+cQ2M2h89YIuy95lbxuYjxT4Hk4kQ==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.0"
@@ -7746,14 +7741,14 @@ csv-parse@^5.0.1:
   resolved "https://registry.yarnpkg.com/csv-parse/-/csv-parse-5.4.0.tgz#6793210a4a49a9a74b3fde3f9d00f3f52044fd89"
   integrity sha512-JiQosUWiOFgp4hQn0an+SBoV9IKdqzhROM0iiN4LB7UpfJBlsSJlWl9nq4zGgxgMAzHJ6V4t29VAVD+3+2NJAg==
 
-cypress@12.17.2:
-  version "12.17.2"
-  resolved "https://registry.yarnpkg.com/cypress/-/cypress-12.17.2.tgz#040ac55de1e811f6e037d231a2869d5ab8c29c85"
-  integrity sha512-hxWAaWbqQBzzMuadSGSuQg5PDvIGOovm6xm0hIfpCVcORsCAj/gF2p0EvfnJ4f+jK2PCiDgP6D2eeE9/FK4Mjg==
+cypress@12.17.3:
+  version "12.17.3"
+  resolved "https://registry.yarnpkg.com/cypress/-/cypress-12.17.3.tgz#1e2b19037236fc60e4a4b3a14f0846be17a1fc0e"
+  integrity sha512-/R4+xdIDjUSLYkiQfwJd630S81KIgicmQOLXotFxVXkl+eTeVO+3bHXxdi5KBh/OgC33HWN33kHX+0tQR/ZWpg==
   dependencies:
     "@cypress/request" "^2.88.11"
     "@cypress/xvfb" "^1.2.4"
-    "@types/node" "^14.14.31"
+    "@types/node" "^16.18.39"
     "@types/sinonjs__fake-timers" "8.1.1"
     "@types/sizzle" "^2.3.2"
     arch "^2.2.0"
