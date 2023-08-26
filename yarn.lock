@@ -7810,9 +7810,9 @@ csstype@^3.1.1:
   integrity sha512-I7K1Uu0MBPzaFKg4nI5Q7Vs2t+3gWWW648spaF+Rg7pI9ds18Ugn+lvg4SHczUdKlHI5LWBXyqfS8+DufyBsgQ==
 
 csv-parse@^5.0.1:
-  version "5.4.1"
-  resolved "https://registry.yarnpkg.com/csv-parse/-/csv-parse-5.4.1.tgz#4159247bcc4473685c0492ace5f99f98b2f71c0f"
-  integrity sha512-DL6gLkEatPgB8Fkwf5igeiSIBTY2MVDWb0Edp+cdbK/U+5IXVvVEEOjno9yA8+Dgyu0HaRZ5P/kOVqgUzGJGUA==
+  version "5.5.0"
+  resolved "https://registry.yarnpkg.com/csv-parse/-/csv-parse-5.5.0.tgz#2313421e69b650dae32a79ac884b20b21ca1d9da"
+  integrity sha512-RxruSK3M4XgzcD7Trm2wEN+SJ26ChIb903+IWxNOcB5q4jT2Cs+hFr6QP39J05EohshRFEvyzEBoZ/466S2sbw==
 
 cypress@12.17.4:
   version "12.17.4"
