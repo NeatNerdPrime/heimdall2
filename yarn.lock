@@ -2613,11 +2613,11 @@
     path-to-regexp "0.2.5"
 
 "@nestjs/testing@^10.0.0":
-  version "10.2.1"
-  resolved "https://registry.yarnpkg.com/@nestjs/testing/-/testing-10.2.1.tgz#72e25203ea0327128ced9285f3c4a77d660f4ad6"
-  integrity sha512-NZp79hk5WigRkfraBwAIIEczzk+ionPSqpEr1qJxSXAF2HARtEDX8WqrHWe83k6Wff5d4S4D1ZRDtGp88/d8PQ==
+  version "10.2.2"
+  resolved "https://registry.yarnpkg.com/@nestjs/testing/-/testing-10.2.2.tgz#000e38cb058b5aa46e5a7dfecc17ae6dd5d88164"
+  integrity sha512-zczk6gLfxyVz+rxdNkplGZHM7xpKuknbeYZCCY1CppnAsaCNbFDcqtBdYlDy0mAaUFXv9BFcOC6rWPUXg0KZ1Q==
   dependencies:
-    tslib "2.6.1"
+    tslib "2.6.2"
 
 "@node-ipc/js-queue@2.0.3":
   version "2.0.3"
