@@ -11987,11 +11987,6 @@ is-plain-obj@^3.0.0:
   resolved "https://registry.yarnpkg.com/is-plain-obj/-/is-plain-obj-3.0.0.tgz#af6f2ea14ac5a646183a5bbdb5baabbc156ad9d7"
   integrity sha512-gwsOE28k+23GP1B6vFl1oVh/WOzmawBrKwo5Ev6wMKzPkaXaCDIQKzLnvsA42DRlbVTWorkgTKIviAKCWkfUwA==
 
-is-plain-obj@^4.1.0:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/is-plain-obj/-/is-plain-obj-4.1.0.tgz#d65025edec3657ce032fd7db63c97883eaed71f0"
-  integrity sha512-+Pgi+vMuUNkJyExiMBt5IlFoMyKnr5zhJ4Uspz58WOhBF5QoIZkFyNHIbBAtHwzVAgk5RtndVNsDRN61/mmDqg==
-
 is-plain-object@^2.0.3, is-plain-object@^2.0.4:
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/is-plain-object/-/is-plain-object-2.0.4.tgz#2c163b3fafb1b606d9d17928f05c2a1c38e07677"
@@ -15195,14 +15190,14 @@ oauth-sign@~0.9.0:
   integrity sha512-fexhUFFPTGV8ybAtSIGbV6gOkSv8UtRbDBnAyLQw4QPKkgNlsH2ByPGtMUqdWkos6YCRmAqViwgZrJc/mRDzZQ==
 
 oauth2-mock-server@^7.0.0:
-  version "7.1.0"
-  resolved "https://registry.yarnpkg.com/oauth2-mock-server/-/oauth2-mock-server-7.1.0.tgz#13b6a4a77b1efff971d500e94508ce971342f3c7"
-  integrity sha512-81GqRtiQMkX2Ccmdj+vvXewm+xQCvNtf9IKP23Z1nmKLlcbH5dkof/FpV5i4SRBCVxkYCanfwMHcNoLpv6/yjg==
+  version "7.1.1"
+  resolved "https://registry.yarnpkg.com/oauth2-mock-server/-/oauth2-mock-server-7.1.1.tgz#f11c2543146cb049bf1fccbacd0889efe9b83a86"
+  integrity sha512-4/PdPZLySsC68IoiO79BKpr5Rv2j2+WgFZskox7bzSlsXqoX8Nm9OWm3IXB0HQ7xJCbzcR4vvvcDe6UnA/UIiw==
   dependencies:
     basic-auth "^2.0.1"
     cors "^2.8.5"
     express "^4.18.2"
-    is-plain-obj "^4.1.0"
+    is-plain-object "^5.0.0"
     jose "^4.15.4"
 
 oauth@0.9.x:
