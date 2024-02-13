@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@aws-sdk/client-config-service": "^3.23.0",
-    "@typescript-eslint/eslint-plugin": "^6.12.0",
+    "@typescript-eslint/eslint-plugin": "^7.0.0",
     "@typescript-eslint/parser": "^6.13.0",
     "eslint": "^8.14.0",
     "eslint-config-prettier": "^9.0.0",
