@@ -4528,11 +4528,6 @@
   dependencies:
     "@types/node" "*"
 
-"@types/urijs@^1.19.25":
-  version "1.19.25"
-  resolved "https://registry.yarnpkg.com/@types/urijs/-/urijs-1.19.25.tgz#ac92b53e674c3b108decdbe88dc5f444a2f42f6a"
-  integrity sha512-XOfUup9r3Y06nFAZh3WvO0rBU4OtlfPB/vgxpjg+NRdGU6CN6djdc6OEiH+PcqHCY6eFLo9Ista73uarf4gnBg==
-
 "@types/uuid@^9.0.0":
   version "9.0.8"
   resolved "https://registry.yarnpkg.com/@types/uuid/-/uuid-9.0.8.tgz#7545ba4fc3c003d6c756f651f3bf163d8f0f29ba"
@@ -16819,13 +16814,12 @@ quick-lru@^4.0.1:
   resolved "https://registry.yarnpkg.com/quick-lru/-/quick-lru-4.0.1.tgz#5b8878f113a58217848c6482026c73e1ba57727f"
   integrity sha512-ARhCpm70fzdcvNQfPoy49IaanKkTlRWF2JMzqhcJbhSFRZv7nPTvZJdcY7301IPmvW+/p0RgIWnQDLJxifsQ7g==
 
-quicktype-core@23.0.158:
-  version "23.0.158"
-  resolved "https://registry.yarnpkg.com/quicktype-core/-/quicktype-core-23.0.158.tgz#1a11b0096a8d3d3b1369967b4ecdb1ac84a64c5d"
-  integrity sha512-CY85z0eLyPlimpyZwfK2YHjrMyjckiILfffX07XMjSpJZ5Z/dOTWXqdiTf+IS172utvDUHNTYQHZY/eqPTwEbQ==
+quicktype-core@23.0.162:
+  version "23.0.162"
+  resolved "https://registry.yarnpkg.com/quicktype-core/-/quicktype-core-23.0.162.tgz#4b4ab5276096d10d4b2879df5cca89365e879f8b"
+  integrity sha512-rFSOLDsnf/BkAfTwS7t0DQGOm12b5sUA3tfNT4JdFGbaf6SiSeKUs6/9eElgeHudhUL1RUGf5D4RDsV+hGk/cQ==
   dependencies:
     "@glideapps/ts-necessities" "2.2.3"
-    "@types/urijs" "^1.19.25"
     browser-or-node "^3.0.0"
     collection-utils "^1.0.1"
     cross-fetch "^4.0.0"
@@ -16840,28 +16834,28 @@ quicktype-core@23.0.158:
     wordwrap "^1.0.0"
     yaml "^2.4.1"
 
-quicktype-graphql-input@23.0.158:
-  version "23.0.158"
-  resolved "https://registry.yarnpkg.com/quicktype-graphql-input/-/quicktype-graphql-input-23.0.158.tgz#afe04f0c7006e02636b065296f593cd53311dfe9"
-  integrity sha512-JXR4I57XiUKUHjCdeVi/BYiPM6GtiqiAHrZYvMOG+myULwnU/i8QzSkDMXraWMCb/9KqhG9T87elXrmPQ5duIA==
+quicktype-graphql-input@23.0.162:
+  version "23.0.162"
+  resolved "https://registry.yarnpkg.com/quicktype-graphql-input/-/quicktype-graphql-input-23.0.162.tgz#47be0ff67089c948a4e22dfd455044737351ef65"
+  integrity sha512-ycxcI3+jpUVsvXnqz7U7c+jGHWQ69viFsqljLwf9SRXLxKeO5iT0mkxRfHmZlc6k68l7QpCGgncDB21SAov0ig==
   dependencies:
     collection-utils "^1.0.1"
     graphql "^0.11.7"
-    quicktype-core "23.0.158"
+    quicktype-core "23.0.162"
 
-quicktype-typescript-input@23.0.158:
-  version "23.0.158"
-  resolved "https://registry.yarnpkg.com/quicktype-typescript-input/-/quicktype-typescript-input-23.0.158.tgz#1f4bb2013f0ab0edd73435b3da0dbe73e585967d"
-  integrity sha512-mV4geRGFHV//B2CsUVEP65UZnErbLLaVeZFBBNngDZMwvHVDklPxEGQhLeXPnbNIGJ6ybDer3B1PwfjeSqbR0Q==
+quicktype-typescript-input@23.0.162:
+  version "23.0.162"
+  resolved "https://registry.yarnpkg.com/quicktype-typescript-input/-/quicktype-typescript-input-23.0.162.tgz#f4e66031bf7717e953d102518bf67da5da9e286b"
+  integrity sha512-3TYgCXa5OGgVLlRHFXJ9cE05euX4uG8Ss3My+mdGGXBSLIu13MJlXpyrEK8NU5P1nBaAaAlq6iuY+4E8bGqA+A==
   dependencies:
     "@mark.probst/typescript-json-schema" "0.55.0"
-    quicktype-core "23.0.158"
+    quicktype-core "23.0.162"
     typescript "4.9.5"
 
 quicktype@^23.0.1:
-  version "23.0.158"
-  resolved "https://registry.yarnpkg.com/quicktype/-/quicktype-23.0.158.tgz#4cf59a7ce7200133a4a7709362e970a9e933b0e5"
-  integrity sha512-bo1rk8jqVCHwjuneSQdkeqRZ8GmAyIVadZpS6+c2x0gN72inTpB2yCG9mMfV1ADok8E+tVK811kg6KTuYkFzGA==
+  version "23.0.162"
+  resolved "https://registry.yarnpkg.com/quicktype/-/quicktype-23.0.162.tgz#dff427d18c515b5ee4ad438ed88e2380d7d9474f"
+  integrity sha512-JVFS93kEVczKDa3JbQQGO3IwK9/lGNcHs8UauRu3qnfVrx4P1bwFuidY77goJYNTz2cpeMjfH2nGdYOpdmM0ZA==
   dependencies:
     "@glideapps/ts-necessities" "^2.2.3"
     chalk "^4.1.2"
@@ -16872,9 +16866,9 @@ quicktype@^23.0.1:
     graphql "^0.11.7"
     lodash "^4.17.21"
     moment "^2.30.1"
-    quicktype-core "23.0.158"
-    quicktype-graphql-input "23.0.158"
-    quicktype-typescript-input "23.0.158"
+    quicktype-core "23.0.162"
+    quicktype-graphql-input "23.0.162"
+    quicktype-typescript-input "23.0.162"
     readable-stream "^4.5.2"
     stream-json "1.8.0"
     string-to-stream "^3.0.1"
