@@ -6077,9 +6077,9 @@ available-typed-arrays@^1.0.5:
   integrity sha512-DMD0KiN46eipeziST1LPP/STfDU0sufISXmjSgvVsoU2tqxctQeASejWcfNtxYKqETM1UxQ8sp2OrSBWpHY6sw==
 
 aws-sdk@^2.573.0:
-  version "2.1656.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.1656.0.tgz#b8ec5b74c1dfc1900c866c4cdf9798cf5854ff4b"
-  integrity sha512-KhMRUSeIJNDMuL5PEwyQ5JPF477qDNCb3gHHTqb49IVTtpIYZnPdJgOrDb4nbFHEeoW1x9hKrkRJ4ZL1KTEmJA==
+  version "2.1657.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.1657.0.tgz#729d931627e7cbc468a68ae41508609f8dec31d6"
+  integrity sha512-eo+C2WUeujaS6zouasoSnBafW2cdAc2baD2hkjsjBukGX6OanxuOu0bIOI/m5qOzwpRjDY3YkgQXxcPSb5r6OQ==
   dependencies:
     buffer "4.9.2"
     events "1.1.1"
@@ -14102,11 +14102,6 @@ lru-cache@^10.0.1, lru-cache@^10.2.0, lru-cache@^10.2.2:
   version "10.3.0"
   resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-10.3.0.tgz#4a4aaf10c84658ab70f79a85a9a3f1e1fb11196b"
   integrity sha512-CQl19J/g+Hbjbv4Y3mFNNXFEL/5t/KCg8POCuUqd4rMKjGG+j1ybER83hxV58zL+dFI1PTkt3GNFSHRt+d8qEQ==
-
-lru-cache@^11.0.0:
-  version "11.0.0"
-  resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-11.0.0.tgz#15d93a196f189034d7166caf9fe55e7384c98a21"
-  integrity sha512-Qv32eSV1RSCfhY3fpPE2GNZ8jgM9X7rdAfemLWqTUxwiyIC4jJ6Sy0fZ8H+oLWevO6i4/bizg7c8d8i6bxrzbA==
 
 lru-cache@^4.0.1, lru-cache@^4.1.2:
   version "4.1.5"
