@@ -123,7 +123,7 @@
     "vuex-module-decorators": "^2.0.0",
     "xlsx": "^0.18.0",
     "xml-js": "^1.6.11",
-    "yazl": "^2.5.1"
+    "yazl": "^3.0.0"
   },
   "devDependencies": {
     "@types/chai": "^5.0.0",
