@@ -21222,9 +21222,9 @@ yauzl@^2.10.0, yauzl@^2.4.2:
     fd-slicer "~1.1.0"
 
 yazl@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/yazl/-/yazl-3.0.0.tgz#6bf504630a42a1753164acc496f389375496dc43"
-  integrity sha512-Lyj5t1/5KTD2iQYgz0W9L7qSORjcfzCiVtnA1sYSCJ/7TN4LcnMRtlS2eYlO3zvCzbtcbGpfCovJeGV27hhqQg==
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/yazl/-/yazl-3.1.0.tgz#92902cee0f04c9dce565573f3013405ac1c2b1a8"
+  integrity sha512-jTCO9Dfhj3YLt5m+V8TUapuSogc0PE5a1vQWNBQK+eLnFP35zZQQKGML7IVMQYOP8ryLNWojInAegtG8RfAf+w==
   dependencies:
     buffer-crc32 "^1.0.0"
 
