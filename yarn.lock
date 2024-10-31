@@ -4278,10 +4278,10 @@
   resolved "https://registry.yarnpkg.com/@types/deep-eql/-/deep-eql-4.0.2.tgz#334311971d3a07121e7eb91b684a605e7eea9cbd"
   integrity sha512-c9h9dVVMigMPc4bwTvC5dxqtqJZwQPePsWjPlpSOnojbor6pGqdk541lfA7AqFQr5pB1BRdq0juY9db81BwyFw==
 
-"@types/diff@^5.0.0":
-  version "5.2.3"
-  resolved "https://registry.yarnpkg.com/@types/diff/-/diff-5.2.3.tgz#dcdcfa40df9f011f9465180e0196dfbd921971d9"
-  integrity sha512-K0Oqlrq3kQMaO2RhfrNQX5trmt+XLyom88zS0u84nnIcLvFnRUMRRHmrGny5GSM+kNO9IZLARsdQHDzkhAgmrQ==
+"@types/diff@^6.0.0":
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/@types/diff/-/diff-6.0.0.tgz#031f27cf57564f3cce825f38fb19fdd4349ad07a"
+  integrity sha512-dhVCYGv3ZSbzmQaBSagrv1WJ6rXCdkyTcDyoNu1MD8JohI7pR7k8wdZEm+mvdxRKXyHVwckFzWU1vJc+Z29MlA==
 
 "@types/ejs@^3.0.6":
   version "3.1.0"
