@@ -20517,9 +20517,9 @@ vue-component-type-helpers@^2.0.0:
   integrity sha512-qdGXCtoBrwqk1BT6r2+1Wcvl583ZVkuSZ3or7Y1O2w5AvWtlvvxwjGhmz5DdPJS9xqRdDlgTJ/38ehWnEi0tFA==
 
 vue-cookies@^1.7.4:
-  version "1.8.4"
-  resolved "https://registry.yarnpkg.com/vue-cookies/-/vue-cookies-1.8.4.tgz#50ce538b3a66109b484936ae3ecc4677b8f21540"
-  integrity sha512-9zjvACKE4W0kEb8OQtXzpizKhf6zfFOG/Z1TEUjSJn4Z4rintuAHo8y/FpCUhTWHMmPe8E+Fko+/tiXVM+5jOw==
+  version "1.8.5"
+  resolved "https://registry.yarnpkg.com/vue-cookies/-/vue-cookies-1.8.5.tgz#dc8e02919d378e23dd6571fcc5f8c4cfd41175f6"
+  integrity sha512-7BbERTTMntFq+sGIcQYCoANjb3aAEgFx0/9wpyC5EoJo5FAStdJO+/i/zzZwHCix11sQgCQKiCHa/kJ8dt/N3w==
 
 vue-eslint-parser@^9.3.1, vue-eslint-parser@^9.4.3:
   version "9.4.3"
