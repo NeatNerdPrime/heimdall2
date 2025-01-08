@@ -48,7 +48,7 @@
     "@types/chroma-js": "^3.1.0",
     "@types/concat-stream": "^2.0.0",
     "@types/d3": "^7.0.0",
-    "@types/diff": "^6.0.0",
+    "@types/diff": "^7.0.0",
     "@types/file-saver": "^2.0.1",
     "@types/jquery": "^3.5.5",
     "@types/lodash": "^4.14.161",
