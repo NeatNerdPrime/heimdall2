@@ -2958,6 +2958,11 @@
   dependencies:
     tslib "2.8.1"
 
+"@noble/hashes@^1.1.5":
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/@noble/hashes/-/hashes-1.8.0.tgz#cee43d801fcef9644b11b8194857695acd5f815a"
+  integrity sha512-jCs9ldd7NwzpgXDIf6P3+NrHh9/sD6CQdxHyjQI+h/6rDNo88ypBxxz45UDuZHz9r3tNz7N/VInSVoVdtXEI4A==
+
 "@node-ipc/js-queue@2.0.3":
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/@node-ipc/js-queue/-/js-queue-2.0.3.tgz#ac7fe33d766fa53e233ef8fedaf3443a01c5a4cd"
@@ -3339,6 +3344,13 @@
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/@one-ini/wasm/-/wasm-0.1.1.tgz#6013659736c9dbfccc96e8a9c2b3de317df39323"
   integrity sha512-XuySG1E38YScSJoMlqovLru4KTUNSjgVTIjyh7qMX6aNN5HY5Ct5LhRJdxO79JtTzKfzV/bnWpz+zquYrISsvw==
+
+"@paralleldrive/cuid2@^2.2.2":
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/@paralleldrive/cuid2/-/cuid2-2.2.2.tgz#7f91364d53b89e2c9cb9e02e8dd0f129e834455f"
+  integrity sha512-ZOBkgDwEdoYVlSeRbYYXs0S9MejQofiVYoTbKzy/6GQa39/q5tQU2IX46+shYnUkpEl3wc+J6wRlar7r2EK2xA==
+  dependencies:
+    "@noble/hashes" "^1.1.5"
 
 "@parcel/watcher-android-arm64@2.4.1":
   version "2.4.1"
@@ -5226,14 +5238,6 @@
     "@typescript-eslint/types" "7.18.0"
     "@typescript-eslint/visitor-keys" "7.18.0"
 
-"@typescript-eslint/scope-manager@8.29.1":
-  version "8.29.1"
-  resolved "https://registry.yarnpkg.com/@typescript-eslint/scope-manager/-/scope-manager-8.29.1.tgz#cfdfd4144f20c38b9d3e430efd6480e297ef52f6"
-  integrity sha512-2nggXGX5F3YrsGN08pw4XpMLO1Rgtnn4AzTegC2MDesv6q3QaTU5yU7IbS1tf1IwCR0Hv/1EFygLn9ms6LIpDA==
-  dependencies:
-    "@typescript-eslint/types" "8.29.1"
-    "@typescript-eslint/visitor-keys" "8.29.1"
-
 "@typescript-eslint/scope-manager@8.30.1":
   version "8.30.1"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/scope-manager/-/scope-manager-8.30.1.tgz#f99c7efd53b5ff9fb57e55be71eb855603fd80b7"
@@ -5272,11 +5276,6 @@
   resolved "https://registry.yarnpkg.com/@typescript-eslint/types/-/types-7.18.0.tgz#b90a57ccdea71797ffffa0321e744f379ec838c9"
   integrity sha512-iZqi+Ds1y4EDYUtlOOC+aUmxnE9xS/yCigkjA7XpTKV6nCBd3Hp/PRGGmdwnfkV2ThMyYldP1wRpm/id99spTQ==
 
-"@typescript-eslint/types@8.29.1":
-  version "8.29.1"
-  resolved "https://registry.yarnpkg.com/@typescript-eslint/types/-/types-8.29.1.tgz#984ed1283fedbfb41d3993a9abdcb7b299971500"
-  integrity sha512-VT7T1PuJF1hpYC3AGm2rCgJBjHL3nc+A/bhOp9sGMKfi5v0WufsX/sHCFBfNTx2F+zA6qBc/PD0/kLRLjdt8mQ==
-
 "@typescript-eslint/types@8.30.1":
   version "8.30.1"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/types/-/types-8.30.1.tgz#20ff6d66ab3d8fe0533aeb7092a487393d53f925"
@@ -5309,20 +5308,6 @@
     minimatch "^9.0.4"
     semver "^7.6.0"
     ts-api-utils "^1.3.0"
-
-"@typescript-eslint/typescript-estree@8.29.1":
-  version "8.29.1"
-  resolved "https://registry.yarnpkg.com/@typescript-eslint/typescript-estree/-/typescript-estree-8.29.1.tgz#4ac085665ed5390d11c0e3426427978570e3b747"
-  integrity sha512-l1enRoSaUkQxOQnbi0KPUtqeZkSiFlqrx9/3ns2rEDhGKfTa+88RmXqedC1zmVTOWrLc2e6DEJrTA51C9iLH5g==
-  dependencies:
-    "@typescript-eslint/types" "8.29.1"
-    "@typescript-eslint/visitor-keys" "8.29.1"
-    debug "^4.3.4"
-    fast-glob "^3.3.2"
-    is-glob "^4.0.3"
-    minimatch "^9.0.4"
-    semver "^7.6.0"
-    ts-api-utils "^2.0.1"
 
 "@typescript-eslint/typescript-estree@8.30.1":
   version "8.30.1"
@@ -5373,14 +5358,6 @@
   dependencies:
     "@typescript-eslint/types" "7.18.0"
     eslint-visitor-keys "^3.4.3"
-
-"@typescript-eslint/visitor-keys@8.29.1":
-  version "8.29.1"
-  resolved "https://registry.yarnpkg.com/@typescript-eslint/visitor-keys/-/visitor-keys-8.29.1.tgz#9b74e5098c71138d42bbf2178fbe4dfad45d6b9a"
-  integrity sha512-RGLh5CRaUEf02viP5c1Vh1cMGffQscyHe7HPAzGpfmfflFg1wUz2rYxd+OZqwpeypYvZ8UxSxuIpF++fmOzEcg==
-  dependencies:
-    "@typescript-eslint/types" "8.29.1"
-    eslint-visitor-keys "^4.2.0"
 
 "@typescript-eslint/visitor-keys@8.30.1":
   version "8.30.1"
@@ -11239,13 +11216,13 @@ form-data@~2.3.2:
     combined-stream "^1.0.6"
     mime-types "^2.1.12"
 
-formidable@^3.5.1:
-  version "3.5.1"
-  resolved "https://registry.yarnpkg.com/formidable/-/formidable-3.5.1.tgz#9360a23a656f261207868b1484624c4c8d06ee1a"
-  integrity sha512-WJWKelbRHN41m5dumb0/k8TeAx7Id/y3a+Z7QfhxP/htI9Js5zYaEDtG8uMgG0vM0lOlqnmjE99/kfpOYi/0Og==
+formidable@^3.5.4:
+  version "3.5.4"
+  resolved "https://registry.yarnpkg.com/formidable/-/formidable-3.5.4.tgz#ac9a593b951e829b3298f21aa9a2243932f32ed9"
+  integrity sha512-YikH+7CUTOtP44ZTnUhR7Ic2UASBPOqmaRkRKxRbywPTe5VxF7RRCck4af9wutiZ/QKM5nME9Bie2fFaPz5Gug==
   dependencies:
+    "@paralleldrive/cuid2" "^2.2.2"
     dezalgo "^1.0.4"
-    hexoid "^1.0.0"
     once "^1.4.0"
 
 forwarded@0.2.0:
@@ -12089,11 +12066,6 @@ helmet@^8.0.0:
   version "8.1.0"
   resolved "https://registry.yarnpkg.com/helmet/-/helmet-8.1.0.tgz#f96d23fedc89e9476ecb5198181009c804b8b38c"
   integrity sha512-jOiHyAZsmnr8LqoPGmCjYAaiuWwjAPLgY8ZX2XrmHawt99/u1y6RgrZMTeoPfpUbV96HOalYgz1qzkRbw54Pmg==
-
-hexoid@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/hexoid/-/hexoid-1.0.0.tgz#ad10c6573fb907de23d9ec63a711267d9dc9bc18"
-  integrity sha512-QFLV0taWQOZtvIRIAdBChesmogZrtuXvVWsFHZTk2SU+anspqZ2vMnoLg7IE1+Uk16N19APic1BuF8bC8c2m5g==
 
 highlight.js@*, highlight.js@^11.0.0:
   version "11.11.1"
@@ -19728,29 +19700,28 @@ subscriptions-transport-ws@^0.11.0:
     symbol-observable "^1.0.4"
     ws "^5.2.0 || ^6.0.0 || ^7.0.0"
 
-superagent@^9.0.1:
-  version "9.0.1"
-  resolved "https://registry.yarnpkg.com/superagent/-/superagent-9.0.1.tgz#660773036c03728a1a88649a5d7e15d89b1d6961"
-  integrity sha512-CcRSdb/P2oUVaEpQ87w9Obsl+E9FruRd6b2b7LdiBtJoyMr2DQt7a89anAfiX/EL59j9b2CbRFvf2S91DhuCww==
+superagent@^10.2.1:
+  version "10.2.1"
+  resolved "https://registry.yarnpkg.com/superagent/-/superagent-10.2.1.tgz#3e39038fff125cbd1584fa4b384db2994bbffdcb"
+  integrity sha512-O+PCv11lgTNJUzy49teNAWLjBZfc+A1enOwTpLlH6/rsvKcTwcdTT8m9azGkVqM7HBl5jpyZ7KTPhHweokBcdg==
   dependencies:
     component-emitter "^1.3.0"
     cookiejar "^2.1.4"
     debug "^4.3.4"
     fast-safe-stringify "^2.1.1"
     form-data "^4.0.0"
-    formidable "^3.5.1"
+    formidable "^3.5.4"
     methods "^1.1.2"
     mime "2.6.0"
     qs "^6.11.0"
-    semver "^7.3.8"
 
 supertest@^7.0.0:
-  version "7.1.0"
-  resolved "https://registry.yarnpkg.com/supertest/-/supertest-7.1.0.tgz#09b273174a8820e57ccdb03d9ca0d96c08c96b52"
-  integrity sha512-5QeSO8hSrKghtcWEoPiO036fxH0Ii2wVQfFZSP0oqQhmjk8bOLhDFXr4JrvaFmPuEWUoq4znY3uSi8UzLKxGqw==
+  version "7.1.1"
+  resolved "https://registry.yarnpkg.com/supertest/-/supertest-7.1.1.tgz#c5e7e2d047fbbe4403b17b2622dc5323adc39f11"
+  integrity sha512-aI59HBTlG9e2wTjxGJV+DygfNLgnWbGdZxiA/sgrnNNikIW8lbDvCtF6RnhZoJ82nU7qv7ZLjrvWqCEm52fAmw==
   dependencies:
     methods "^1.1.2"
-    superagent "^9.0.1"
+    superagent "^10.2.1"
 
 supports-color@^2.0.0:
   version "2.0.0"
