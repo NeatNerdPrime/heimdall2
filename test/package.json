@@ -10,7 +10,7 @@
     "mock-openid": "node support/server/oidc-server.js"
   },
   "devDependencies": {
-    "cypress": "14.3.0"
+    "cypress": "15.4.0"
   },
   "dependencies": {
     "eslint-plugin-cypress": "^4.1.0",
