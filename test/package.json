@@ -15,6 +15,6 @@
   "dependencies": {
     "eslint-plugin-cypress": "^4.1.0",
     "json-server": "^0.17.0",
-    "oauth2-mock-server": "^7.0.0"
+    "oauth2-mock-server": "^8.2.0"
   }
 }
