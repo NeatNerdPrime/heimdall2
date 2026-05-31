@@ -293,19 +293,19 @@
     tslib "^2.6.2"
 
 "@aws-sdk/client-sts@^3.427.0":
-  version "3.1055.0"
-  resolved "https://registry.yarnpkg.com/@aws-sdk/client-sts/-/client-sts-3.1055.0.tgz#f4ad471e5884ea11882fccb3ebca60afb88b9e3c"
-  integrity sha512-moZE4f3+AAqKabrzIJOCr+atHLkIpXSeIb3dOzmp3puURgBSOrzyM69B7gOl7d5pyR9F1ixQayM5dipbvfVFwQ==
+  version "3.1057.0"
+  resolved "https://registry.yarnpkg.com/@aws-sdk/client-sts/-/client-sts-3.1057.0.tgz#67b3e2d5aa46bfcb39ca4dcf62a274787599c507"
+  integrity sha512-67Qi3j1Np/y8QAiTQn3SlYIDg6j3gUbwbjYqPzL0S0pDTYoNtnHjABrvarg21txotlQn9ZkbgBawEL3+f3A/Qg==
   dependencies:
     "@aws-crypto/sha256-browser" "5.2.0"
     "@aws-crypto/sha256-js" "5.2.0"
-    "@aws-sdk/core" "^3.974.14"
-    "@aws-sdk/credential-provider-node" "^3.972.45"
-    "@aws-sdk/signature-v4-multi-region" "^3.996.29"
+    "@aws-sdk/core" "^3.974.15"
+    "@aws-sdk/credential-provider-node" "^3.972.47"
+    "@aws-sdk/signature-v4-multi-region" "^3.996.30"
     "@aws-sdk/types" "^3.973.9"
-    "@smithy/core" "^3.24.3"
-    "@smithy/fetch-http-handler" "^5.4.3"
-    "@smithy/node-http-handler" "^4.7.3"
+    "@smithy/core" "^3.24.5"
+    "@smithy/fetch-http-handler" "^5.4.5"
+    "@smithy/node-http-handler" "^4.7.5"
     "@smithy/types" "^4.14.2"
     tslib "^2.6.2"
 
@@ -521,17 +521,7 @@
     "@smithy/types" "^4.14.2"
     tslib "^2.6.2"
 
-"@aws-sdk/signature-v4-multi-region@^3.996.29":
-  version "3.996.29"
-  resolved "https://registry.yarnpkg.com/@aws-sdk/signature-v4-multi-region/-/signature-v4-multi-region-3.996.29.tgz#04c85fff6a77e81b8aea03763571210e02f64833"
-  integrity sha512-Few9FoQqOt/0KSvZYP+qdW0dfOhfQ9N+gl2UUDvCPW6mkPKHli9LMbKxWj+wZ5zKPaOoqxuR3Hhy3OTpndkfSw==
-  dependencies:
-    "@aws-sdk/types" "^3.973.9"
-    "@smithy/signature-v4" "^5.4.2"
-    "@smithy/types" "^4.14.2"
-    tslib "^2.6.2"
-
-"@aws-sdk/signature-v4-multi-region@^3.996.30":
+"@aws-sdk/signature-v4-multi-region@^3.996.29", "@aws-sdk/signature-v4-multi-region@^3.996.30":
   version "3.996.30"
   resolved "https://registry.yarnpkg.com/@aws-sdk/signature-v4-multi-region/-/signature-v4-multi-region-3.996.30.tgz#78e324094413c0c1e2e4b8c77d6981d1a2393c9f"
   integrity sha512-HULDLMVzkmTSEv6//7kx2kRevp/VYUpm8hJNNFbmhxDn0fUiGTxVcM9yg31TukvTq8nyOBDUN2gH0o5IRbKjdw==
@@ -3930,15 +3920,6 @@
   integrity sha512-3dA9TQ+ybRSZ/m0wnbZhiBy4Dezjgq1Ib/ZZrYTpJDBgpoLLU/SDzZc/g0x0MNAdOJe1wPcM+x2PBRmoOur+Sw==
   dependencies:
     "@smithy/core" "^3.24.5"
-    "@smithy/types" "^4.14.2"
-    tslib "^2.6.2"
-
-"@smithy/signature-v4@^5.4.2":
-  version "5.4.3"
-  resolved "https://registry.yarnpkg.com/@smithy/signature-v4/-/signature-v4-5.4.3.tgz#d5bea6e6c32fef6bee0afe6819b9c9551b905103"
-  integrity sha512-53+75QuPl6DL+ct6vVEB51FDO5oulXr20TPV46VvJZg76lIlXNWfxi8j+G2V/t0I2qxCBOa3vX/8bmjrpFVo9g==
-  dependencies:
-    "@smithy/core" "^3.24.3"
     "@smithy/types" "^4.14.2"
     tslib "^2.6.2"
 
