@@ -3854,10 +3854,10 @@
     "@sinonjs/commons" "^3.0.1"
     type-detect "^4.1.0"
 
-"@smithy/core@^3.24.6", "@smithy/core@^3.25.0":
-  version "3.25.0"
-  resolved "https://registry.yarnpkg.com/@smithy/core/-/core-3.25.0.tgz#7247961c444311bdb19125a4802f876e16344b34"
-  integrity sha512-TTD6el7tvKyafkXBf7XO3jLOE+qVxOTrLjp/fEGiV3BMfUHK/LfdYlQO9YgZvzxC7kqA3H/IhJXNqQgnbgjb7A==
+"@smithy/core@^3.24.6", "@smithy/core@^3.26.0":
+  version "3.26.0"
+  resolved "https://registry.yarnpkg.com/@smithy/core/-/core-3.26.0.tgz#3bcf1d934791a12b1c987c2300b567e5cff48321"
+  integrity sha512-mLUktFAn+Pa2agl1J7VgtYNFWCX8/b4GMJSK1hCu4YCvtBfM6F8Os3EP4ry+DFFlXOf3wyvlgXhuUdFoy52D3g==
   dependencies:
     "@aws-crypto/crc32" "5.2.0"
     "@smithy/types" "^4.15.0"
@@ -3889,11 +3889,11 @@
     tslib "^2.6.2"
 
 "@smithy/node-http-handler@^4.0.0", "@smithy/node-http-handler@^4.7.6":
-  version "4.8.0"
-  resolved "https://registry.yarnpkg.com/@smithy/node-http-handler/-/node-http-handler-4.8.0.tgz#515f710b17f6086f0e1eccc85fbd5c4014dac16d"
-  integrity sha512-Mq7TNt/VhlEWiYRLQGpzUWeUxh899UGpjKh7Ru0WVIDIjnE+cTRAn0NYlFQ6bWfsQnKnpCbWJj86HzmcG0qEdg==
+  version "4.8.2"
+  resolved "https://registry.yarnpkg.com/@smithy/node-http-handler/-/node-http-handler-4.8.2.tgz#bd7fc4d60220d4629111784e3c5c1d76fa55499f"
+  integrity sha512-wfl1uwrAqMH9/pi4kqBo5LBcFwrJLxuDLqL7p7qNcJIFcyZDUc6pzhYk4CYv+DP7fIUpQCZumwNnkhPKS52osQ==
   dependencies:
-    "@smithy/core" "^3.25.0"
+    "@smithy/core" "^3.26.0"
     "@smithy/types" "^4.15.0"
     tslib "^2.6.2"
 
@@ -4809,9 +4809,9 @@
     "@types/node" "*"
 
 "@types/node@*", "@types/node@^10.1.0", "@types/node@^22.10.7", "@types/node@^25.0.1":
-  version "22.19.21"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.19.21.tgz#5c9d843ea385b31ee937a9f743443830620a32de"
-  integrity sha512-VMeFBSCKQKmm2swI2kW51SFusDqekC6q9trBCvJ/JliDchFSuoYYKN7yVNjPthP1HKZcx3U1gI/wTcEBjEFKTA==
+  version "22.20.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.20.0.tgz#431f5007396bc1a1a47b9c7df60f3e5e0b5b7304"
+  integrity sha512-QWlFW2wf3nTjC13/DqRnBpR4ZO36VJH/JVBkA/vcnmbTBNQIlnObqyqZE1tUR7+Ni23Lda8R1BxMfbXRpCUx5g==
   dependencies:
     undici-types "~6.21.0"
 
