@@ -3758,10 +3758,10 @@
     "@sinonjs/commons" "^3.0.1"
     type-detect "^4.1.0"
 
-"@smithy/core@^3.29.4", "@smithy/core@^3.29.8":
-  version "3.29.8"
-  resolved "https://registry.yarnpkg.com/@smithy/core/-/core-3.29.8.tgz#6466029ff27285257cf9bb4864fdb632c870ccf0"
-  integrity sha512-rpCbCV+TimOBi3VLNBMmtTvgfOWcFIEAru3+TFlG87SL2F+te4jOnnNR+cf3uR4eJ5Qf4LnT80fqnBKgPRS6zA==
+"@smithy/core@^3.29.4", "@smithy/core@^3.30.0":
+  version "3.30.0"
+  resolved "https://registry.yarnpkg.com/@smithy/core/-/core-3.30.0.tgz#87e60a2c7db47a591ba6014e0b701a6f46e672bf"
+  integrity sha512-dl2yRglDxfzH9uJ4fSo4zTaAHa0zH7+V7BZMRWy8hEYIKT1BiqMUK/CN6T3ADQ3kbA5N1tmUulroJ2UtONS7Kw==
   dependencies:
     "@smithy/types" "^4.16.1"
     tslib "^2.6.2"
@@ -3785,11 +3785,11 @@
     tslib "^2.6.2"
 
 "@smithy/node-http-handler@^4.0.0", "@smithy/node-http-handler@^4.9.6":
-  version "4.9.10"
-  resolved "https://registry.yarnpkg.com/@smithy/node-http-handler/-/node-http-handler-4.9.10.tgz#e03a874620cec491f787787b8bf6072d45adabc7"
-  integrity sha512-ETQz9v/Z+nTQc6fRWTXxUpxJqwpmzB3Tn3WKAdHwWkeT+m+HE5czs6GNG8vW+4vyxXSls65RVcvOZwk7Q/PS/Q==
+  version "4.9.11"
+  resolved "https://registry.yarnpkg.com/@smithy/node-http-handler/-/node-http-handler-4.9.11.tgz#7fe69576864a8cfcedd2705a4192252337584ff8"
+  integrity sha512-slbzbz8taEOzoXv/9y34YNBoE+ZHmddLykCgjDAjvMAsu2nM5s2Gzwa5OGF721tD8s+CKeFUBds5lSj9lcbuDg==
   dependencies:
-    "@smithy/core" "^3.29.8"
+    "@smithy/core" "^3.30.0"
     "@smithy/types" "^4.16.1"
     tslib "^2.6.2"
 
