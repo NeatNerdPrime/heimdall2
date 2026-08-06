@@ -227,12 +227,12 @@
     tslib "^2.6.2"
 
 "@aws-sdk/client-sts@^3.427.0":
-  version "3.1101.0"
-  resolved "https://registry.yarnpkg.com/@aws-sdk/client-sts/-/client-sts-3.1101.0.tgz#dcdf50f5d07cfd4c3755f164a954abc8646e0bed"
-  integrity sha512-g/xmDwNRsObFM8WnYCvMOYipHRL2B+C18eRw5KzB3wiqF/BtDuscq8lIUVK9sU6bpCIqrDHVuHoUyKNaS9OWkg==
+  version "3.1102.0"
+  resolved "https://registry.yarnpkg.com/@aws-sdk/client-sts/-/client-sts-3.1102.0.tgz#62bd742a5ccdbb06a5f823f1168ed7dd3755d503"
+  integrity sha512-nTGOuQcdFCoYepiChiVKkk3IENsXVfVmPgnrWn7mVMmmPEoz6aljGJ0S94TbgXXcNXr5WzUFU3NUWPX9POBgiQ==
   dependencies:
-    "@aws-sdk/core" "^3.977.4"
-    "@aws-sdk/credential-provider-node" "^3.972.76"
+    "@aws-sdk/core" "^3.977.5"
+    "@aws-sdk/credential-provider-node" "^3.972.77"
     "@aws-sdk/signature-v4-multi-region" "^3.996.43"
     "@aws-sdk/types" "^3.974.2"
     "@smithy/core" "^3.31.1"
@@ -241,7 +241,7 @@
     "@smithy/types" "^4.16.1"
     tslib "^2.6.2"
 
-"@aws-sdk/core@^3.977.2", "@aws-sdk/core@^3.977.3", "@aws-sdk/core@^3.977.4", "@aws-sdk/core@^3.977.6":
+"@aws-sdk/core@^3.977.2", "@aws-sdk/core@^3.977.3", "@aws-sdk/core@^3.977.5", "@aws-sdk/core@^3.977.6":
   version "3.977.6"
   resolved "https://registry.yarnpkg.com/@aws-sdk/core/-/core-3.977.6.tgz#4cc709e9299cfbbd4e5dfb83d82e3e67fb9a569c"
   integrity sha512-QiaJV4/zDrB4ZY2mfeSXSzSTc36W16sZXcGz+SPFk0CJ26gziO0cS+4LjJUMAbdeeBOvS0k0Aq1cZpfGdUXxSw==
@@ -310,7 +310,7 @@
     "@smithy/types" "^4.16.1"
     tslib "^2.6.2"
 
-"@aws-sdk/credential-provider-node@^3.972.74", "@aws-sdk/credential-provider-node@^3.972.75", "@aws-sdk/credential-provider-node@^3.972.76":
+"@aws-sdk/credential-provider-node@^3.972.74", "@aws-sdk/credential-provider-node@^3.972.75", "@aws-sdk/credential-provider-node@^3.972.77":
   version "3.972.78"
   resolved "https://registry.yarnpkg.com/@aws-sdk/credential-provider-node/-/credential-provider-node-3.972.78.tgz#8e9de78b6bec734781d29fcb3bde57983bd6e869"
   integrity sha512-OgPAnfvbGAMWac6yvxJ1ihslrvDpPVwR68D2csospdNCCyPvHk9JLzYKwz48SNiS1T2znDwHauywRKRFfpyYng==
