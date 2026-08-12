@@ -20163,9 +20163,9 @@ tsutils@^3.21.0:
     tslib "^1.8.1"
 
 tsx@^4.7.1:
-  version "4.23.8"
-  resolved "https://registry.yarnpkg.com/tsx/-/tsx-4.23.8.tgz#8ea0a0f3f74a5b1ff8a6d8c8ede1aa54697b2962"
-  integrity sha512-8W675THjbzfFmLOQzjDBIBna+WjqMGIxmSZ1mMc1+o9qoVsEuAgQu5j5ueLhau8inOkDu9OslVg0FmfBs1RIHw==
+  version "4.23.11"
+  resolved "https://registry.yarnpkg.com/tsx/-/tsx-4.23.11.tgz#82a7cbcce167b575060db03ef789a84c687c7f97"
+  integrity sha512-Ry2oTEUnhBdeEdWIztY8kf3/nBGnPnjMLVGL0YfdRXMORuPER5NlKmayqxtxRxwB1xBN+RivRaJfe7PM1rtiyw==
   dependencies:
     esbuild "~0.28.0"
   optionalDependencies:
