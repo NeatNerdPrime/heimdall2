@@ -227,14 +227,14 @@
     tslib "^2.6.2"
 
 "@aws-sdk/client-sts@^3.427.0":
-  version "3.1107.0"
-  resolved "https://registry.yarnpkg.com/@aws-sdk/client-sts/-/client-sts-3.1107.0.tgz#c59cff29f493e0b72066b2069c05dbb430c7e7c1"
-  integrity sha512-9Rf4GpBDvNM0Fomv+uuGsX9YnZlxBOpbPamD8A4xAOZQP9v9GeDccXU/XEt84k/cWwR9Orol5ON1aId5vSRiiQ==
+  version "3.1109.0"
+  resolved "https://registry.yarnpkg.com/@aws-sdk/client-sts/-/client-sts-3.1109.0.tgz#334725f4cec4b49c2db68a5ce291a326a1f4a604"
+  integrity sha512-67YVNnWJ+6JGdXqs2XB3m+6rK8yBs90O8box2wLpoc5mlz+7JF2Y00BZ/AhJdB9uhN7ovaVTyjjQjSmEcR5kxw==
   dependencies:
-    "@aws-sdk/core" "^3.977.6"
-    "@aws-sdk/credential-provider-node" "^3.972.78"
-    "@aws-sdk/signature-v4-multi-region" "^3.996.43"
-    "@aws-sdk/types" "^3.974.2"
+    "@aws-sdk/core" "^3.977.7"
+    "@aws-sdk/credential-provider-node" "^3.972.79"
+    "@aws-sdk/signature-v4-multi-region" "^3.996.44"
+    "@aws-sdk/types" "^3.974.3"
     "@smithy/core" "^3.31.1"
     "@smithy/fetch-http-handler" "^5.6.13"
     "@smithy/node-http-handler" "^4.9.13"
@@ -389,17 +389,7 @@
     "@smithy/types" "^4.16.1"
     tslib "^2.6.2"
 
-"@aws-sdk/signature-v4-multi-region@^3.996.43", "@aws-sdk/signature-v4-multi-region@^3.996.44":
-  version "3.996.44"
-  resolved "https://registry.yarnpkg.com/@aws-sdk/signature-v4-multi-region/-/signature-v4-multi-region-3.996.44.tgz#ce4be074ca9a5512170c0c5a36432e55454fca9e"
-  integrity sha512-ZSfQ35Qn4MhSY+A0Whyr+KBx+wJKZUyBsOrjB2pSHOafRzbFe47T8XcXM8hZqUAC69qnqIy0C9ArxTuud0CC2w==
-  dependencies:
-    "@aws-sdk/types" "^3.974.3"
-    "@smithy/signature-v4" "^5.6.12"
-    "@smithy/types" "^4.16.1"
-    tslib "^2.6.2"
-
-"@aws-sdk/signature-v4-multi-region@^3.996.45":
+"@aws-sdk/signature-v4-multi-region@^3.996.43", "@aws-sdk/signature-v4-multi-region@^3.996.44", "@aws-sdk/signature-v4-multi-region@^3.996.45":
   version "3.996.45"
   resolved "https://registry.yarnpkg.com/@aws-sdk/signature-v4-multi-region/-/signature-v4-multi-region-3.996.45.tgz#7d8d1d2c769327b9b5c624ee577ea1248826af7a"
   integrity sha512-bBuyztukzXq6plzFGHAWiQt0QXo+HL8b8lX5cFTzkez/74PtS1c0qPFCIVuHkyoT+miH2qOjAcm1/yoro2ESPA==
