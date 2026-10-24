@@ -247,21 +247,21 @@
     tslib "^2.6.2"
 
 "@aws-sdk/client-sts@^3.427.0":
-  version "3.1152.0"
-  resolved "https://registry.yarnpkg.com/@aws-sdk/client-sts/-/client-sts-3.1152.0.tgz#c5d5e81745698bd2d10df6e9fd22315995c5d157"
-  integrity sha512-dLvk02UzZPRTeLLh8C86OpJBRzsJZ+fSxGqqdzoWOXACwZOf3xH6d4rQn54eZNPKYWaQNlt4VmfA5mZsfItbgw==
+  version "3.1154.0"
+  resolved "https://registry.yarnpkg.com/@aws-sdk/client-sts/-/client-sts-3.1154.0.tgz#d0757bd813968484018597c7d6cf04ea0ca903d9"
+  integrity sha512-FEhGp61eKs60Ktb5cIr3MNOwCRJ6bI9ghiBXEQFrlJhMlt2p7l3dk7tI1AADUfjvRBkdaBAHXkSI2+OsdI9PiA==
   dependencies:
-    "@aws-sdk/core" "^3.978.3"
-    "@aws-sdk/credential-provider-node" "^3.972.86"
+    "@aws-sdk/core" "^3.978.4"
+    "@aws-sdk/credential-provider-node" "^3.972.87"
     "@aws-sdk/signature-v4-multi-region" "^3.996.48"
     "@aws-sdk/types" "^3.974.6"
-    "@smithy/core" "^3.35.2"
+    "@smithy/core" "^3.36.0"
     "@smithy/fetch-http-handler" "^5.8.0"
     "@smithy/node-http-handler" "^4.12.1"
     "@smithy/types" "^4.19.0"
     tslib "^2.6.2"
 
-"@aws-sdk/core@^3.978.3", "@aws-sdk/core@^3.978.4", "@aws-sdk/core@^3.978.5":
+"@aws-sdk/core@^3.978.4", "@aws-sdk/core@^3.978.5":
   version "3.978.5"
   resolved "https://registry.yarnpkg.com/@aws-sdk/core/-/core-3.978.5.tgz#1c9442d0cf4d7acb1c51a4a35a804033f995812a"
   integrity sha512-ruI0AWqcrfL20XDS6SwZIJFPOBZ6N0ADa9nLzWlBhxk1aoUjbUX3JkTR9vEmk7o35XpAHi68ahZ4T6RE2U9XyA==
@@ -330,7 +330,7 @@
     "@smithy/types" "^4.19.0"
     tslib "^2.6.2"
 
-"@aws-sdk/credential-provider-node@^3.972.86", "@aws-sdk/credential-provider-node@^3.972.87":
+"@aws-sdk/credential-provider-node@^3.972.87":
   version "3.972.88"
   resolved "https://registry.yarnpkg.com/@aws-sdk/credential-provider-node/-/credential-provider-node-3.972.88.tgz#41f751b1711a8afcc6a44a573e54f332ca41adc1"
   integrity sha512-AG0KID5qhQPzrFkh5b0Cws1Amytvzo0L0Xj6hMgJXEwD6ZXAqninDhSNAWJiN5zU4YVVZnuidnqwPwYJ04IamA==
@@ -3934,7 +3934,7 @@
     "@sinonjs/commons" "^3.0.1"
     type-detect "^4.1.0"
 
-"@smithy/core@^3.33.2", "@smithy/core@^3.33.3", "@smithy/core@^3.35.0", "@smithy/core@^3.35.2", "@smithy/core@^3.36.0", "@smithy/core@^3.36.1":
+"@smithy/core@^3.33.2", "@smithy/core@^3.33.3", "@smithy/core@^3.35.0", "@smithy/core@^3.36.0", "@smithy/core@^3.36.1":
   version "3.36.2"
   resolved "https://registry.yarnpkg.com/@smithy/core/-/core-3.36.2.tgz#dc8348dbdd9604a297e93ab791266d6511c2038c"
   integrity sha512-oRw0rB9QSUiCZfEs23G5F4Af+b2rQt1lItIICWu5IejFNd+uPM8SWqiKLMpQ6bX1Q7slsLbjuoE2niErFtkVPQ==
